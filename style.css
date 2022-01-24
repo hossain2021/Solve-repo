@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,600;0,700;1,800&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+ul{
+   list-style: none;
+   margin: 0;
+   padding: 0;
+}
+
+
+.carousel-item img{
+    max-height: 450px;
+}
+.packages h3{
+    color: #221D4F;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.packages h4{
+    color: #221D4F;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+ 
+.packages p, .packages ul{
+    color: #848199;
+}
+
+.packages ul li i{
+    color: #EDEBF8;
+    background-color: #6153C7;
+    border: 0;
+    border-radius: 20px;
+    font-size: 20px;
+    margin: 5px 5px 5px 0;
+}
+
+.wedding-plus {
+    color: #ffffff;
+    padding: 20px;
+}
+.wedding-plus h4, .wedding-plus h3{
+    color: #fff;
+
+}
+
+.wedding-plus p, .wedding-plus ul{
+    color: #ffffff;
+    
+}
+
+.wedding-plus button{
+    text-align: center;
+}
+
+.wedding-plus ul li i{
+    color: #EDEBF8;
+    background-color: #3F87F5;
+    border: 0;
+    border-radius: 20px;
+    font-size: 20px;
+    margin: 5px 5px 5px 0;
+}
+
+.toaster{
+    border-left: 5px solid #3F87F5;
+}
